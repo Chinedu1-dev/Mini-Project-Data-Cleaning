@@ -28,6 +28,10 @@ I stated by removing Duplicate IDs.  I ensured each ID is unique by keeping only
 I went further in my Data cleaning by removed rows where the "Price Per Unit" was marked as "inf."			
 Rows with Missing Regions were removed, since some entries lacked a region, I excluded them.			
 
+### Summary Table
+
+![SUMMARY TABLE](https://github.com/user-attachments/assets/ce8e2a5d-b940-4440-8d5f-277790b860d1)
+
 
 ### Result and fildings.
 
@@ -39,5 +43,9 @@ Rows with Missing Regions were removed, since some entries lacked a region, I ex
 
 1. South has the highest total quantity (295) and revenue ($8,049.90).			
 2. Asgard has a high total value ($4,499.75) despite fewer items sold.			
-3. West ranks second in revenue ($5,950.20), though it ties with East in quantity.			
+3. West ranks second in revenue ($5,950.20), though it ties with East in quantity.
+
+Final Dataset
+
+![Cleaned Data Set](https://github.com/user-attachments/assets/6530313c-ea01-4ac8-8c01-6d9d2d7aaeb4)
 
